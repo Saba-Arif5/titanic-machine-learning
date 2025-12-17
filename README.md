@@ -18,6 +18,7 @@ The objective is to demonstrate foundational machine learning skills using a wel
 ## Project Structure
 
 titanic-machine-learning/
+```
 │
 ├── datasets/
 │   └── cleaned_titanic.csv
@@ -30,6 +31,7 @@ titanic-machine-learning/
 │
 ├── README.md
 └── .gitignore
+```
 
 ---
 
